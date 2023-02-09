@@ -14,7 +14,7 @@ int main()
 
 	std::string_view bluRayMovies[][1]
 	{
-		{"Nausicaä"},
+		{"NausicaÃ¤"},
 		{"Anastasia"},
 		{"Weathering With You"},
 		{"The Wind Rises"},
@@ -62,7 +62,7 @@ int main()
 		{"How to Train Your Dragon 2"},
 		{"The Twilight Saga: New Moon"},
 		{"The Twilight Saga: Eclipse"},
-		{"The Twilight Saga: Breaking Dawn – Part 1"},
+		{"The Twilight Saga: Breaking Dawn â€“ Part 1"},
 		{"The Secret Garden (2020)"},
 		{"My Hero Academia: Heroes Rising"},
 		{"The Mitchells vs. the Machines"},
@@ -82,7 +82,7 @@ int main()
 		{"Miss Peregrine's Home for Peculiar Children"},
 		{"Spirit"},
 		{"Kubo"},
-		{"Les Misérables"},
+		{"Les MisÃ©rables"},
 		{"Easy A"},
 		{"The Help"},
 		{"Bad Teacher"},
