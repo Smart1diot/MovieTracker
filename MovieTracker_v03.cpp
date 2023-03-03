@@ -84,7 +84,7 @@ int main()
 		"Miss Peregrine's Home for Peculiar Children",
 		"Spirit Stallion of the Cimarron",
 		"Kubo and the Two Strings",
-		"Les Misérables",
+		"Les MisÃ©rables",
 		"Easy A",
 		"The Help",
 		"Bad Teacher",
