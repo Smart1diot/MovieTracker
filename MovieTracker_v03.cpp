@@ -61,7 +61,6 @@ int main()
 		"Isle of Dogs",
 		"Spider-Man: Homecoming",
 		"How to Train Your Dragon",
-		"How to Train Your Dragon 2",
 		"The Twilight Saga: New Moon",
 		"The Twilight Saga: Eclipse",
 		"The Twilight Saga: Breaking Dawn: Part 1",
@@ -121,6 +120,14 @@ int main()
 		"Deadpool",
 		"The Batman",
 		"Chronicle",
+		"The Fast and the Furious: Tokyo Drift",
+		"X-Men: First Class",
+		"2 Fast 2 Furious",
+		"Beetlejuice",
+		"The NeverEnding Story",
+		"Scooby-Doo (2002)",
+		"Willy Wonka & the Chocolate Factory (1971)",
+		"Iron Man (2008)",
 	};
 
 	int numMovies{ (sizeof(bluRayMovies) / sizeof(bluRayMovies[0])) };
