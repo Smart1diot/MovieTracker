@@ -128,6 +128,11 @@ int main()
 		"Scooby-Doo (2002)",
 		"Willy Wonka & the Chocolate Factory (1971)",
 		"Iron Man (2008)",
+		"How to Train Your Dragon 2",
+		"Inglourious Basterds",
+		"Puss in Boots: The Last Wish",
+
+
 	};
 
 	int numMovies{ (sizeof(bluRayMovies) / sizeof(bluRayMovies[0])) };
